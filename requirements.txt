@@ -1,0 +1,15 @@
+# scraping
+requests
+beautifulsoup4
+tqdm
+
+# dane
+pandas
+numpy
+
+# wizualizacje
+matplotlib
+seaborn
+
+# notebook
+jupyter
