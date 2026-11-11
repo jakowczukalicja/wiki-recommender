@@ -3,13 +3,20 @@ requests
 beautifulsoup4
 tqdm
 
-# dane
+#recommendations
+scikit-learn
+
+# data
 pandas
 numpy
+pyarrow
 
-# wizualizacje
+# visualisations
 matplotlib
 seaborn
 
 # notebook
 jupyter
+
+# preprocessing
+nltk
